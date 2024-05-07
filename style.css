@@ -1,0 +1,21 @@
+body {
+	background-color: yellow;
+}
+
+h1 {
+	font-family: 'calibri';
+	font-size: 30px;
+	color: blue;
+}
+
+h2{
+	color: blueviolet;
+}
+
+p {
+	background-color: aliceblue;
+}
+
+p::first-letter {
+	color: red;
+}
